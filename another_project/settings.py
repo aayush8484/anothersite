@@ -25,7 +25,7 @@ SECRET_KEY = 'foq#tr_=l*#tv5jk196#tt&(7(ka4^pggj=6q6h%xj$)_yv372'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gupta1999.pythonanywhere.com',]
 
 
 # Application definition
